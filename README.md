@@ -20,7 +20,7 @@ Most Influential Research papers on system dynamics
    Authors: Khalid Saeed and Ehsan S. Soofi
    Published: 2004
 
-6. Title:** "Learning in and about Complex Systems"
+6. Title: "Learning in and about Complex Systems"
    Authors: John D. Sterman
    Published: 2002
 
