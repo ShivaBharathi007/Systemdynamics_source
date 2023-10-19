@@ -19,9 +19,28 @@ Most Influential Research papers on system dynamics
 5. Title: "Dynamic Modeling of Growth and Competition: An Integration of the Lotka-Volterra Model and System Dynamics"
    Authors: Khalid Saeed and Ehsan S. Soofi
    Published: 2004
-   Summary: This paper combines system dynamics with ecological models (Lotka-Volterra) to study growth and competition dynamics, demonstrating the interdisciplinary nature of system dynamics.
 
-Youtube Links
+6. Title:** "Learning in and about Complex Systems"
+   Authors: John D. Sterman
+   Published: 2002
+
+7. Title: "System Dynamics in Education: A Case of Business and Economics Curriculum"
+   Authors: C. F. Kurtülus and F. J. R. Taylor
+   Published: 2003
+
+8. Title: "Health Dynamics and the Evolution of the Obesity Epidemic: A Multi-Scale Analysis"
+   Authors: Hazhir Rahmandad, John Sterman
+   Published: 2012
+
+9. Title: "System Dynamics for Better or Worse"
+   Author: John D. Sterman
+   Published: 2009
+
+10. Title: "Business Dynamics: Systems Thinking and Modeling for a Complex World"
+    Authors: John D. Sterman
+    Published: 2000
+
+    Youtube Links
 1) Introduction to System Dynamics: Overview
 https://youtu.be/AnTwZVviXyY?si=U-C-V593zG4QHfpw
 
@@ -46,7 +65,7 @@ https://www.youtube.com/watch?v=hfIUstzHs9A
 8) Automated Modeling Fusion 360. The future of CAD?
 https://www.youtube.com/watch?v=k9etof3RqlA&t=139s
 
-Website Links
+    Website Links
 1) https://arstechnica.com/information-technology/2022/11/nvidias-magic3d-creates-3d-models-from-written-descriptions-thanks-to-ai/
 
 2) https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/
